@@ -1,0 +1,21 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../datapath.srcs/sources_1/imports/Assignment2s/functionalUnit/functionalUnit.srcs/sources_1/imports/imports/Assignment2s/Arithmatic_Circuit/Arithmatic_Circuit.srcs/sources_1/imports/new/16bit_ripple_adder.vhd" \
+"../../../../datapath.srcs/sources_1/imports/Assignment2s/functionalUnit/functionalUnit.srcs/sources_1/imports/new/ALU.vhd" \
+"../../../../datapath.srcs/sources_1/imports/Assignment2s/functionalUnit/functionalUnit.srcs/sources_1/imports/imports/Assignment2s/Arithmatic_Circuit/Arithmatic_Circuit.srcs/sources_1/new/Arithmatic_Circuit.vhd" \
+"../../../../datapath.srcs/sources_1/imports/Assignment2s/functionalUnit/functionalUnit.srcs/sources_1/imports/imports/Assignment2s/Logical_Circuit/Logical_Circuit.srcs/sources_1/new/Logical_Circuit.vhd" \
+"../../../../datapath.srcs/sources_1/new/datapath.vhd" \
+"../../../../datapath.srcs/sources_1/imports/Assignment2s/register_file/register_file.srcs/sources_1/imports/Assignment2s/decoder/decoder.srcs/sources_1/imports/new/decoder3to8.vhd" \
+"../../../../datapath.srcs/sources_1/imports/Assignment2s/functionalUnit/functionalUnit.srcs/sources_1/imports/imports/new/full_adder.vhd" \
+"../../../../datapath.srcs/sources_1/imports/Assignment2s/functionalUnit/functionalUnit.srcs/sources_1/new/functional_unit.vhd" \
+"../../../../datapath.srcs/sources_1/imports/Assignment2s/functionalUnit/functionalUnit.srcs/sources_1/imports/imports/new/mux_2to1.vhd" \
+"../../../../datapath.srcs/sources_1/imports/Assignment2s/functionalUnit/functionalUnit.srcs/sources_1/imports/imports/Assignment2s/Logical_Circuit/Logical_Circuit.srcs/sources_1/imports/new/mux_4to1.vhd" \
+"../../../../datapath.srcs/sources_1/imports/Assignment2s/register_file/register_file.srcs/sources_1/imports/Assignment2s/mux_forRegister/mux_forRegister.srcs/sources_1/new/mux_forRegister.vhd" \
+"../../../../datapath.srcs/sources_1/imports/Assignment2s/functionalUnit/functionalUnit.srcs/sources_1/imports/sources_1/imports/new/mux_shifter.vhd" \
+"../../../../datapath.srcs/sources_1/imports/Assignment2s/register_file/register_file.srcs/sources_1/imports/Assignment2s/reg/reg.srcs/sources_1/new/reg.vhd" \
+"../../../../datapath.srcs/sources_1/imports/Assignment2s/register_file/register_file.srcs/sources_1/imports/new/register_file.vhd" \
+"../../../../datapath.srcs/sources_1/imports/Assignment2s/functionalUnit/functionalUnit.srcs/sources_1/imports/sources_1/new/shifter.vhd" \
+"../../../../datapath.srcs/sources_1/new/datapath_tb.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,10 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+U:/2nd year/Architecture/Assignment1s/assignment1_ver4/assignment1_ver4.srcs/sources_1/new/decoder3to8.vhd,1581619760,vhdl,,,,decoder3to8,,,,,,,,
+U:/2nd year/Architecture/Assignment1s/assignment1_ver4/assignment1_ver4.srcs/sources_1/new/mux2_16bit.vhd,1581539840,vhdl,,,,mux2_16bit,,,,,,,,
+U:/2nd year/Architecture/Assignment1s/assignment1_ver4/assignment1_ver4.srcs/sources_1/new/mux8_16bit.vhd,1581624408,vhdl,,,,mux8_16bit,,,,,,,,
+U:/2nd year/Architecture/Assignment1s/assignment1_ver4/assignment1_ver4.srcs/sources_1/new/reg8.vhd,1581624411,vhdl,,,,reg8,,,,,,,,
+U:/2nd year/Architecture/Assignment1s/assignment1_ver4/assignment1_ver4.srcs/sources_1/new/register_file.vhd,1581625418,vhdl,,,,register_file,,,,,,,,
+U:/2nd year/Architecture/Assignment1s/assignment1_ver4/assignment1_ver4.srcs/sources_1/new/register_file_tb.vhd,1581697334,vhdl,,,,register_file_tb,,,,,,,,
